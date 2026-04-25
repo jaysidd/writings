@@ -108,5 +108,3 @@ Junaid Siddiqi explores the intersection of enterprise AI adoption, system archi
 [Connect with me on LinkedIn](https://www.linkedin.com/in/junaidsiddiqi/)
 
 ---
-
-**Medium Topics (copy-paste ready):** Artificial Intelligence, Career Advice, Future of Work, Productivity, AI Tools
