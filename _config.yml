@@ -1,0 +1,10 @@
+title: Writings — Junaid Siddiqi
+description: Long-form articles on AI engineering, agentic systems, and practical LLM development.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
