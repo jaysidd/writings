@@ -1,10 +1,6 @@
 # AI Will Replace You. The CEO of Nvidia Just Told You How.
 ## Jensen Huang said the quiet part out loud at Stanford. The threat is not the model. It is the coworker who already uses it.
 
-> **Platform:** Medium · **Length:** ~1,850 words · **POV:** First-person · **Publish setting:** Free to read (not paywalled).
-
-[Featured Image: split-screen visualization of two professionals at the same desk, same job. One person stares at a single document. The other operates with multiple AI panels open. Alt text: "Two professionals at the same job, one working solo, the other working with AI assistance."]
-
 Three weeks ago, the CEO of Nvidia stood in front of a Stanford audience and said something that should have been on every front page. It wasn't. It went viral on LinkedIn instead, where most of it got rewritten beyond recognition.
 
 Here is what he actually said:
