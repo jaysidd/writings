@@ -11,6 +11,8 @@ Articles are drafted as Markdown, published here as the canonical source via Git
 | Date | Title | Live |
 |---|---|---|
 | 2026-04-25 | A weekend on the official Claude Agent SDK | [Read →](https://jaysidd.github.io/writings/agent-lab/) |
+| 2026-04-25 | AI Will Replace You. The CEO of Nvidia Just Told You How. | [Read →](https://jaysidd.github.io/writings/AI_replace/) |
+
 
 ---
 
